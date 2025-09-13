@@ -1,1 +1,1 @@
-# homework-69
+# Homework 69 | Рефакторинг проекту MongoDB на Mongoose
